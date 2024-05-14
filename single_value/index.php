@@ -9,6 +9,4 @@ $y = $params[1];
 
 
 list ($x, $y) = $params;
-
-
 var_dump($x, $y);
